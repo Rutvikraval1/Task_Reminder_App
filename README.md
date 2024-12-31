@@ -7,7 +7,7 @@
 # How to set up and run the application
 - Install Flutter SDK from flutter.dev.
 - Clone the repository:
-  - git clone <repository_url>
+  - git clone https://github.com/Rutvikraval1/Task_Reminder_App.git
   - cd task_reminder_app
 - Install dependencies and run the app:
   - flutter pub get
