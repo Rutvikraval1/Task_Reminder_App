@@ -30,6 +30,6 @@
 # ()
 ## Video Demo
 
-[![Watch the video](https://youtube.com/shorts/BJe5MWGsUIc)]
+[![Watch the video]](https://youtube.com/shorts/BJe5MWGsUIc)
 
 Alternatively, download the [demo video](/images/apk/taskRemidervideo.mp4).
