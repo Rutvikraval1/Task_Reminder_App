@@ -27,3 +27,9 @@
 - Persistent notifications on Android after app closure.
 - Ensuring smooth performance and consistent UI.
 
+# ()
+## Video Demo
+
+[![Watch the video](https://youtube.com/shorts/BJe5MWGsUIc)]
+
+Alternatively, download the [demo video](/images/apk/taskRemidervideo.mp4).
